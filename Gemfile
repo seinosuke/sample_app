@@ -22,6 +22,7 @@ group :test do
   gem 'capybara', '2.1.0'
   # Uncomment these lines on Linux.
   gem 'libnotify', '0.8.0'
+  gem 'factory_girl_rails', '4.2.1'
 end
 
 gem 'sass-rails', '4.0.2'
